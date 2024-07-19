@@ -1,0 +1,1 @@
+application.yaml 파일의 username과 password만 secretmanager에 등록하여 사용하는 방법.
